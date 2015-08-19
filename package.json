@@ -1,0 +1,28 @@
+{
+  "name": "zip-code",
+  "version": "1.0.0",
+  "description": "input address and output zip code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacky810124/ZipCode.git"
+  },
+  "keywords": [
+    "zipcode",
+    "zip",
+    "code"
+  ],
+  "author": "jacky810124",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacky810124/ZipCode/issues"
+  },
+  "homepage": "https://github.com/jacky810124/ZipCode#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.60.0"
+  }
+}
